@@ -1,0 +1,127 @@
+✅ Etapa 1 – Fundamentos da linguagem Java
+Objetivo: entender a sintaxe, estrutura e lógica básica.
+
+Tópicos:
+
+O que é Java, instalação do JDK e IDE (Eclipse, IntelliJ ou VSCode)
+
+Hello, World!
+
+Tipos de dados primitivos
+
+Variáveis e constantes
+
+Operadores (+, -, ==, !=, &&, etc.)
+
+Controle de fluxo: if, else, switch
+
+Estruturas de repetição: for, while, do-while
+
+Funções (métodos): declaração, retorno, parâmetros
+
+Arrays e Strings
+
+Entrada e saída (Scanner e System.out)
+
+✅ Etapa 2 – Programação Orientada a Objetos (POO)
+Objetivo: dominar os pilares da POO, que é a alma do Java.
+
+Tópicos:
+
+Classes e Objetos
+
+Construtores
+
+this e super
+
+Encapsulamento (private, public, protected)
+
+Herança
+
+Polimorfismo
+
+Abstração
+
+Interfaces e classes abstratas
+
+static, final, enum
+
+✅ Etapa 3 – Estruturas de dados e coleções (Java Collections)
+Objetivo: trabalhar com dados de forma dinâmica e eficiente.
+
+Tópicos:
+
+Interfaces: List, Set, Map
+
+Implementações: ArrayList, LinkedList, HashSet, TreeSet, HashMap, TreeMap
+
+Iteração com for-each, Iterator, Streams
+
+Ordenação com Collections.sort(), Comparable e Comparator
+
+Diferenças entre as principais implementações
+
+✅ Etapa 4 – Manipulação de arquivos e exceções
+Objetivo: ler e gravar dados, além de tratar erros no sistema.
+
+Tópicos:
+
+try-catch-finally
+
+throw, throws
+
+Criar exceções personalizadas
+
+Leitura e escrita de arquivos com File, BufferedReader, FileWriter
+
+✅ Etapa 5 – Java moderno (Java 8+)
+Objetivo: usar recursos mais modernos e produtivos.
+
+Tópicos:
+
+Expressões lambda
+
+Stream API
+
+Optional
+
+Functional Interfaces
+
+✅ Etapa 6 – Introdução ao desenvolvimento com banco de dados
+Objetivo: aprender a conectar Java com banco de dados relacional (ex: MySQL).
+
+Tópicos:
+
+Conceitos de banco de dados relacional
+
+SQL básico: SELECT, INSERT, UPDATE, DELETE
+
+JDBC (Java Database Connectivity)
+
+Conexão com banco
+
+Executar queries com PreparedStatement
+
+ResultSet
+
+✅ Etapa 7 – JPA e Hibernate
+Objetivo: aprender a persistir objetos no banco com facilidade usando ORM.
+
+Tópicos:
+
+O que é ORM e JPA
+
+Hibernate vs JPA
+
+Anotações principais: @Entity, @Id, @GeneratedValue, @OneToMany, etc.
+
+Mapeamento de relacionamentos (1:1, 1:N, N:M)
+
+Ciclo de vida da entidade
+
+EntityManager e PersistenceContext
+
+JPQL (Java Persistence Query Language)
+
+Spring Data JPA (se quiser avançar mais)
+
